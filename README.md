@@ -111,8 +111,24 @@ $\color{#AAE4DC}{\text{is pts Caporegime (forsaken)!}}$
 $\color{#794029}{\text{is pts Saigiku Jouno! (BSD)!}}$
 
 <p align="center"
-   
-$\color{#794029}{\text{honorable mentions!}}$
+
+[@Erlingsharks](https://github.com/Erlingsharks)
+$\color{#AD0602}{\text{is pts Erling Haaland!}}$
+
+<p align="center"
+
+[@bannysuperman](https://github.com/bannysuperman)
+$\color{#AAE4DC}{\text{is pts Clark Kent!}}$
+
+<p align="center"
+
+[@coalcarolynne](https://github.com/coalcarolynne)
+$\color{#794029}{\text{is pts Coal (dandys world)!}}$
+
+<p align="center"
+      
+[@Mayumixx](https://github.com/Mayumixx)
+$\color{#AD0602}{\text{is pts Tifa Lockhart (FF7)!}}$
 
 <p align="center"
    
