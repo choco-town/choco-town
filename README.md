@@ -75,6 +75,35 @@ $\color{#AD0602}{\text{is pts Dr Vanta (loomian legacy)!}}$
 [@itrap-2245](https://github.com/itrap-2245)
 $\color{#AAE4DC}{\text{is pts Itrapped!}}$
 
+<p align="center"
+   
+[@poisonedRitual](https://github.com/poisonedRitual)
+$\color{#794029}{\text{is pts Twotime (Forsaken)!}}$
+
+<p align="center"
+   
+[SUBSP4CE](https://github.com/SUBSP4CE)
+$\color{#AD0602}{\text{is pts Subspace (Phighting)!}}$
+
+<p align="center"
+
+[@Gamblersi](https://github.com/Gamblersi)
+$\color{#AAE4DC}{\text{is pts Chance (forsaken)!}}$
+
+<p align="center"
+
+[@illrotinthesnow](https://github.com/illrotinthesnow)
+$\color{#794029}{\text{is pts Travis! (TMIRB/The Moon I Rot Behind)!}}$
+
+<p align="center"
+
+[@SONNELLINOENTHUSIAST](https://github.com/SONNELLINOENTHUSIAST)
+$\color{#AD0602}{\text{is pts Mafioso!}}$
+
+<p align="center"
+   
+[@lovingl3tters](https://github.com/lovingl3tters)
+$\color{#AAE4DC}{\text{is pts Caporegime (forsaken)!}}$
 
 <p align="center"
    
