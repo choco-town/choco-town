@@ -106,6 +106,11 @@ $\color{#AD0602}{\text{is pts Mafioso!}}$
 $\color{#AAE4DC}{\text{is pts Caporegime (forsaken)!}}$
 
 <p align="center"
+
+[@S41g1kuJ0un0](https://www.youtube.com/@S41g1kuJ0un0)
+$\color{#794029}{\text{is pts Saigiku Jouno! (BSD)!}}$
+
+<p align="center"
    
 $\color{#794029}{\text{honorable mentions!}}$
 
