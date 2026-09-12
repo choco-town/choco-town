@@ -1,6 +1,6 @@
 <p align="center"
    
-$\color{#794029}{\text{chocotowns citizens count!：09 if someone problematic is added, lmk!}}$
+$\color{#794029}{\text{chocotowns citizens count!：13, if someone problematic is added, lmk!}}$
 
 <p align="center"
    
@@ -69,6 +69,12 @@ $\color{#794029}{\text{is pts AndreW2002 (CollinLock16)!}}$
    
 [dr-vanta](https://github.com/dr-vanta)
 $\color{#AD0602}{\text{is pts Dr Vanta (loomian legacy)!}}$
+
+<p align="center"
+   
+[@itrap-2245](https://github.com/itrap-2245)
+$\color{#AAE4DC}{\text{is pts Itrapped!}}$
+
 
 <p align="center"
    
