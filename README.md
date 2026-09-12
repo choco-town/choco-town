@@ -50,6 +50,8 @@ $\color{#AAE4DC}{\text{is pts Slasher (forsaken)!}}$
 [@k00laidjammerz](https://github.com/k00laidjammerz)
 $\color{#794029}{\text{is pts Gavin−+The mall games' biggest fan!}}$
 
+<p align="center"
+
 [@littleapplemuffins](https://github.com/littleapplemuffins)
 $\color{#AD0602}{\text{is pts Finn (Dandys world)!}}$
    
