@@ -1,6 +1,6 @@
 <p align="center"
    
-$\color{#794029}{\text{chocotowns citizens count!：13, if someone problematic is added, lmk!}}$
+$\color{#794029}{\text{chocotowns citizens count!：20, if someone problematic is added, lmk!}}$
 
 <p align="center"
    
