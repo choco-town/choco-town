@@ -13,12 +13,12 @@ $\color{#AD0602}{\text{characters!}}$
 <p align="center"
 
 [@Aspenolia](https://github.com/Aspenolia)
-$\color{#AAE4DC}{\text{is pts Azurewrath from forsaken/voidtales!}}$
+$\color{#AAE4DC}{\text{is pts Azurewrath (forsaken/voidtales)!}}$
 
 <p align="center"
    
 [@yellowdeltarune](https://github.com/yellowdeltarune)
-$\color{#794029}{\text{is pts yellow from deltarune!}}$
+$\color{#794029}{\text{is pts yellow (deltarune)!}}$
 
 <p align="center"
 
@@ -30,6 +30,15 @@ $\color{#AD0602}{\text{is pts Grox (MC)!}}$
 [@galacticlegendd](https://github.com/galacticlegendd)
 $\color{#AAE4DC}{\text{is pts reinhard (legend of the galactic heros)!}}$
    
+<p align="center"
+   
+[@cherryflavoredfoam](https://github.com/cherryflavoredfoam)
+$\color{#794029}{\text{is pts Miguel O'hara!}}$
+<p align="center"
+
+[@CosmoThePastryy](https://github.com/CosmoThePastryy)
+$\color{#AD0602}{\text{is Cosmo the pastry (Dandys world)!}}$
+
 <p align="center"
    
 $\color{#794029}{\text{honorable mentions!}}$
