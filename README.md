@@ -4,7 +4,7 @@ $\color{#794029}{\text{chocotowns citizens count!：0, if someone problematic is
 
 <p align="center"
    
-$\color{#AAE4DC}{\text{latest update： 12/9/26 (sep 12 2026) }}$
+$\color{#AAE4DC}{\text{latest update： 12/9/26 (sep 12 2026,acc creation date) }}$
 
 <p align="center"
 
