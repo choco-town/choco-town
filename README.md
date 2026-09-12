@@ -67,7 +67,7 @@ $\color{#794029}{\text{is pts AndreW2002 (CollinLock16)!}}$
 
 <p align="center"
    
-[dr-vanta](https://github.com/dr-vanta)
+[@dr-vanta](https://github.com/dr-vanta)
 $\color{#AD0602}{\text{is pts Dr Vanta (loomian legacy)!}}$
 
 <p align="center"
@@ -82,7 +82,7 @@ $\color{#794029}{\text{is pts Twotime (Forsaken)!}}$
 
 <p align="center"
    
-[SUBSP4CE](https://github.com/SUBSP4CE)
+[@SUBSP4CE](https://github.com/SUBSP4CE)
 $\color{#AD0602}{\text{is pts Subspace (Phighting)!}}$
 
 <p align="center"
