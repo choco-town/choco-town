@@ -54,6 +54,23 @@ $\color{#794029}{\text{is pts Gavin−+The mall games' biggest fan!}}$
 
 [@littleapplemuffins](https://github.com/littleapplemuffins)
 $\color{#AD0602}{\text{is pts Finn (Dandys world)!}}$
+
+<p align="center"
+
+[@devanreedirl](https://github.com/devanreedirl)
+$\color{#AAE4DC}{\text{is pts Devan Reed (Dandys world)!}}$
+
+<p align="center"
+
+[@VinnyonPT](https://github.com/VinnyonPT)
+$\color{#794029}{\text{is pts AndreW2002 (CollinLock16)!}}$
+
+<p align="center"
+   
+[dr-vanta](https://github.com/dr-vanta)
+$\color{#AD0602}{\text{is pts Dr Vanta (loomian legacy)!}}$
+
+<p align="center"
    
 $\color{#794029}{\text{honorable mentions!}}$
 
