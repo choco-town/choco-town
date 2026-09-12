@@ -12,17 +12,17 @@ $\color{#AD0602}{\text{characters!}}$
 
 <p align="center"
 
-@Aspenolia
+[@Aspenolia](https://github.com/Aspenolia)
 $\color{#AAE4DC}{\text{is Azurewrath from forsaken/voidtales!}}$
 
 <p align="center"
    
-@yellowdeltarune
+[@yellowdeltarune](https://github.com/yellowdeltarune)
 $\color{#794029}{\text{is yellow from deltarune!}}$
 
 <p align="center"
 
-@Gatita-here
+[@Gatita-here](https://github.com/Gatita-here)
 $\color{#AD0602}{\text{is Grox (MC)!}}$
 
 <p align="center"
