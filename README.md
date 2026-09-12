@@ -1,1 +1,19 @@
-<img width="1125" height="633" alt="image" src="https://github.com/user-attachments/assets/6d0cca21-66eb-4c71-a9a8-89c416a69e90" />
+<p align="center"
+   
+$\color{#794029}{\text{chocotowns citizens count!：0, if someone problematic is added, lmk!}}$
+
+<p align="center"
+   
+$\color{#AAE4DC}{\text{latest update： 12/9/26 (sep 12 2026) }}$
+
+<p align="center"
+
+$\color{#AD0602}{\text{characters!}}$
+
+<p align="center"
+   
+$\color{#794029}{\text{special mentions!}}$
+
+<p align="center"
+   
+$\color{#AAE4DC}{\text{well known citizens!}}$
