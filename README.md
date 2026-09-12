@@ -12,7 +12,7 @@ $\color{#AD0602}{\text{characters!}}$
 
 <p align="center"
    
-$\color{#794029}{\text{special mentions!}}$
+$\color{#794029}{\text{honorable mentions!}}$
 
 <p align="center"
    
