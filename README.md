@@ -131,5 +131,87 @@ $\color{#794029}{\text{is pts Coal (dandys world)!}}$
 $\color{#AD0602}{\text{is pts Tifa Lockhart (FF7)!}}$
 
 <p align="center"
+
+[@disorderlyfashion](https://github.com/disorderlyfashion)
+$\color{#AAE4DC}{\text{is pts squirrelflight!}}$
+
+<p align="center"
+
+[@Corintheuss](https://github.com/Corintheuss)
+$\color{#794029}{\text{is pts Corinthian!}}$
+
+<p align="center"
+
+[@kyostro](https://github.com/kyostro)
+$\color{#AD0602}{\text{is pts bamboo hatted kim (limbus company)!}}$
+
+<p align="center"
+
+[@pupfies](https://github.com/pupfies)
+$\color{#AAE4DC}{\text{is pts Wifies/Clonefies!}}$
+
+<p align="center"
+
+[@Chemicalshot](https://github.com/Chemicalshot)
+$\color{#794029}{\text{is pts Wemmbu!}}$
+
+<p align="center"
+
+[@eversleeping-town](https://github.com/eversleeping-town)
+$\color{#AD0602}{\text{is pts Ada Wong (resident evil)!}}$
+
+<p align="center"
+
+[@monachgrievings](https://github.com/monachgrievings)
+$\color{#AAE4DC}{\text{is pts Lord x (sonic.exe oddeities)!}}$
+<p align="center"
+
+[@fourtysevenstreaks](https://github.com/fourtysevenstreaks)
+$\color{#794029}{\text{is pts Secret Agent!}}$
+
+<p align="center"
+
+[@wiifiies](https://github.com/wiifiies)
+$\color{#AD0602}{\text{is pts Parrotx2!}}$
+<p align="center"
+
+[@TheSpoiledRiches](https://github.com/TheSpoiledRiches)
+$\color{#AAE4DC}{\text{is pts Adam Murray (The Mandela Catalogue)!}}$
+
+<p align="center"
+
+[@fukounagirl](https://github.com/fukounagirl)
+$\color{#794029}{\text{is pts Kaveh (Genshin)!}}$
+
+<p align="center"
+
+[@PH4NT0MHIVE](https://github.com/PH4NT0MHIVE)
+$\color{#AD0602}{\text{is pts Ciel (Black Butler)!}}$
+
+<p align="center"
+
+[@CherrieJam](https://github.com/CherrieJam)
+$\color{#AAE4DC}{\text{is pts Metal Sonic!}}$
+
+<p align="center"
+
+[@uv-light](https://github.com/uv-light)
+$\color{#794029}{\text{is pts Lute (Hazbin Hotel)!}}$
+
+<p align="center"
+
+[@denguemon](https://github.com/denguemon)
+$\color{#AD0602}{\text{is pts Meas Saman!}}$
+
+<p align="center"
+
+[@willythesillybilly](https://github.com/willythesillybilly)
+$\color{#AAE4DC}{\text{is pts Clockwork (Roblox)!}}$
+
+<p align="center"
    
 $\color{#AAE4DC}{\text{well known citizens!}}$
+
+<p align="center"
+
+[@denguemon](https://github.com/denguemon)
