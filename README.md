@@ -1,10 +1,10 @@
 <p align="center"
    
-$\color{#794029}{\text{chocotowns citizens count!：24，if someone problematic is added, lmk!}}$
+$\color{#794029}{\text{chocotowns citizens count!：41,if someone problematic is added, lmk!}}$
 
 <p align="center"
    
-$\color{#AAE4DC}{\text{latest update： 12/9/26 (sep 12 2026,acc creation date) }}$
+$\color{#AAE4DC}{\text{latest update： 13/9/26 (sep 12 2026,acc creation date) }}$
 
 <p align="center"
 
